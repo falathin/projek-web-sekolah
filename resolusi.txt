@@ -1,3 +1,8 @@
 ini bertujuan untuk membuat website program kroco, sepert :
 -web sekolah
--coming soon
+-ayo buat program
+
+terdiri dari anggota :
+-fariyd
+-bayu
+-ibrahim
